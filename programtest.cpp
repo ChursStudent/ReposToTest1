@@ -1,8 +1,8 @@
 #include <iostream>
-int main()
+void main()
 {
 int a = 3, b = 5, c;
 c = a - b;
 std::cout << c;
-return 0;
+std::cout << "\n";
 }
